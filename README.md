@@ -1,3 +1,12 @@
+NOTE: This is a fork of the main Ricochet project. The fork was done mainly due to the discussion here:
+https://github.com/ricochet-im/ricochet/issues/282
+This discussion made me realize that the Ricochet team is probably more concerned about its hardcore-privacy users than "ordinary users". This discussion makes it clear that there is a certain amount of paranoia and paternalism in the developers.
+
+What I propose is as follows: if the users computer has been compromised, or if they are irresponsible, that is their problem. That does not mean usablity has to be sacrified for the rest of us. I consider the possibility to have encrypted logs, typing notification, mobile version, file transfers, single profile from multiple devices essential to today's IM experience. Based on the discussion above, these features seem to be sacrilage for the developers. Hence the fork.
+
+
+
+
 ### Anonymous metadata-resistant instant messaging that just works.
 Ricochet is an experimental kind of instant messaging that **doesn't trust anyone** with your identity, your contact list, or your communications.
 
